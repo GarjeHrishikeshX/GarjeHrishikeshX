@@ -1,6 +1,5 @@
 <!-- 🌟 Dynamic Theme Banner -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=180&section=header&text=Hi%20there!%20I'm%20Hrishikesh%20Garje%20👋&fontSize=32&fontColor=ffffff&animation=fadeIn&desc=AI%20%7C%20Machine%20Learning%20%7C%20Generative%20AI%20Developer&descAlignY=55">
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:f5f5f5&height=180&section=header&text=Hi%20there!%20I'm%20Hrishikesh%20Garje%20👋&fontSize=32&fontColor=2d2e32&animation=fadeIn&desc=AI%20%7C%20Machine%20Learning%20%7C%20Generative%20AI%20Developer&descAlignY=55">
   <img alt="Hi there! I'm Hrishikesh Garje 👋" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi%20there!%20I'm%20Hrishikesh%20Garje%20👋&fontSize=32&fontAlignY=35&animation=fadeIn&desc=AI%20%7C%20Machine%20Learning%20%7C%20Generative%20AI%20Developer&descAlignY=55">
 </picture>
