@@ -1,7 +1,8 @@
-<!-- 🌟 Dynamic Theme Banner -->
+<!-- 🌟 Clean Adaptive Header (Transparent, No Black Borders) -->
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:f5f5f5&height=180&section=header&text=Hi%20there!%20I'm%20Hrishikesh%20Garje%20👋&fontSize=32&fontColor=2d2e32&animation=fadeIn&desc=AI%20%7C%20Machine%20Learning%20%7C%20Generative%20AI%20Developer&descAlignY=55">
-  <img alt="Hi there! I'm Hrishikesh Garje 👋" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi%20there!%20I'm%20Hrishikesh%20Garje%20👋&fontSize=32&fontAlignY=35&animation=fadeIn&desc=AI%20%7C%20Machine%20Learning%20%7C%20Generative%20AI%20Developer&descAlignY=55">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=160&section=header&text=Hi%20there!%20I'm%20Hrishikesh%20Garje%20👋&fontSize=32&fontColor=ffffff&animation=fadeIn&desc=AI%20%7C%20Machine%20Learning%20%7C%20Generative%20AI%20Developer&descAlignY=55&reversal=false&strokeWidth=0">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:fafafa,100:ffffff&height=160&section=header&text=Hi%20there!%20I'm%20Hrishikesh%20Garje%20👋&fontSize=32&fontColor=2d2e32&animation=fadeIn&desc=AI%20%7C%20Machine%20Learning%20%7C%20Generative%20AI%20Developer&descAlignY=55&strokeWidth=0">
+  <img alt="Hi there! I'm Hrishikesh Garje 👋" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Hi%20there!%20I'm%20Hrishikesh%20Garje%20👋&fontSize=32&animation=fadeIn&strokeWidth=0">
 </picture>
 
 [![Profile views](https://komarev.com/ghpvc/?username=GarjeHrishikeshX&color=gray)](https://github.com/GarjeHrishikeshX)
@@ -13,12 +14,12 @@
 ### 👨‍💻 About Me
 
 Hi, I’m **Hrishikesh Garje** — a passionate **AI, ML, and Generative AI Developer** who loves building smart, data-driven, and creative systems.  
-I work on **end-to-end AI solutions** that combine deep learning, automation, and intelligent design.
+I focus on **end-to-end AI applications** — from research and model training to scalable deployment.
 
-- 🌱 Exploring **LLMs**, **RAG pipelines**, and **AI agent architectures**
-- 🤖 Experimenting with **OpenAI**, **Google GenAI**, and **LangChain**
-- ⚡ Interested in **MLOps**, **AI product design**, and **real-world deployment**
-- 💬 Open to **collaboration, research**, and **AI-driven innovation**
+- 🌱 Exploring **LLMs**, **RAG**, and **AI Agents**
+- 🤖 Working with **OpenAI**, **LangChain**, **HuggingFace**, and **Google GenAI**
+- ⚡ Interested in **AI product design** & **automation with ML**
+- 💬 Open to **collaboration**, **internships**, and **research projects**
 
 ---
 
@@ -27,8 +28,8 @@ I work on **end-to-end AI solutions** that combine deep learning, automation, an
 **💻 Languages:**  
 Python • JavaScript • TypeScript • SQL  
 
-**🧩 GenAI / AI / ML:**  
-LLMs • RAG • Transformers • Fine-Tuning • HuggingFace • LangChain • OpenAI API • Google GenAI • FAISS • PyTorch • TensorFlow  
+**🤖 GenAI / AI / ML:**  
+LLMs • Transformers • RAG • Fine-Tuning • HuggingFace • LangChain • OpenAI API • Google GenAI • FAISS • PyTorch • TensorFlow  
 
 **🧰 Frameworks & Tools:**  
 FastAPI • Streamlit • Docker • GitHub Actions • Git • Linux  
@@ -63,9 +64,9 @@ PostgreSQL • ChromaDB • Pinecone
 ### 🚀 Featured Work
 
 - 🧩 **LLM Integrations:** AI Agents, Chatbots, and RAG-based systems  
-- 🎨 **Generative AI:** Text, image, and creative multimodal generation  
-- 📈 **Machine Learning:** Predictive models, NLP, data-driven applications  
-- ☁️ **Deployment:** Containerized ML systems and cloud APIs  
+- 🎨 **Generative AI:** Text, Image, and Multimodal AI models  
+- 📈 **Machine Learning:** Predictive modeling, NLP, and data automation  
+- ☁️ **Deployment:** FastAPI, Docker, and cloud-based AI services  
 
 ---
 
@@ -81,9 +82,9 @@ PostgreSQL • ChromaDB • Pinecone
 
 ---
 
-<!-- 🌊 Dynamic Footer -->
+<!-- 🌊 Transparent Footer -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=100&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:f5f5f5&height=100&section=footer">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=100&section=footer&strokeWidth=0">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:fafafa,100:ffffff&height=100&section=footer&strokeWidth=0">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&strokeWidth=0">
 </picture>
