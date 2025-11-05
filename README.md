@@ -12,9 +12,6 @@ A passionate software developer and experienced GitHub user — I work on open-s
 <!-- Top Languages -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GarjeHrishikeshX&layout=compact&theme=tokyonight&hide=HTML)](https://github.com/GarjeHrishikeshX)
 
-<!-- Streak -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GarjeHrishikeshX&theme=dark&date_format=%5BY.%5D%20j%20M%20Y)](https://github.com/GarjeHrishikeshX)
-
 ---
 
 ## 🔧 Tools & Technologies
