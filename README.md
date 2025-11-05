@@ -15,7 +15,7 @@
 Hi, I’m **Hrishikesh Garje** — a passionate **AI, ML, and Generative AI Developer** dedicated to building intelligent, scalable, and impactful digital systems.  
 My interests span **machine learning**, **natural language processing**, and **AI-powered applications** that make technology more human-centric.
 
-Beyond my work in AI, I’m also the **Founder and Technical Head of [Choco Dazzle](#)** — a luxury chocolate brand specializing in **in-house chocolate production**.  
+Beyond my work in AI, I’m also the **Founder and Technical Head of [Choco Dazzle](https://dazzle-gold-homepage.lovable.app/)** — a luxury chocolate brand specializing in **in-house chocolate production**.  
 At Choco Dazzle, I lead **product digitization**, **website development**, and **automation systems**, merging creativity with technology to deliver both flavor and innovation.
 
 - 🌱 Exploring **LLMs**, **RAG**, and **AI Agents**
