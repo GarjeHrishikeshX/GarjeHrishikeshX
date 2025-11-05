@@ -1,6 +1,6 @@
 <!-- 🌟 Clean Adaptive Header (Transparent, No Black Borders) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=160&section=header&text=Hi%20there!%20I'm%20Hrishikesh%20Garje%20👋&fontSize=32&fontColor=ffffff&animation=fadeIn&desc=AI%20%7C%20Machine%20Learning%20%7C%20Generative%20AI%20Developer&descAlignY=55&reversal=false&strokeWidth=0">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=160&section=header&text=Hi%20there!%20I'm%20Hrishikesh%20Garje%20👋&fontSize=32&fontColor=ffffff&animation=fadeIn&desc=AI%20%7C%20Machine%20Learning%20%7C%20Generative%20AI%20Developer&descAlignY=55&strokeWidth=0">
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:fafafa,100:ffffff&height=160&section=header&text=Hi%20there!%20I'm%20Hrishikesh%20Garje%20👋&fontSize=32&fontColor=2d2e32&animation=fadeIn&desc=AI%20%7C%20Machine%20Learning%20%7C%20Generative%20AI%20Developer&descAlignY=55&strokeWidth=0">
   <img alt="Hi there! I'm Hrishikesh Garje 👋" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Hi%20there!%20I'm%20Hrishikesh%20Garje%20👋&fontSize=32&animation=fadeIn&strokeWidth=0">
 </picture>
@@ -13,13 +13,17 @@
 
 ### 👨‍💻 About Me
 
-Hi, I’m **Hrishikesh Garje** — a passionate **AI, ML, and Generative AI Developer** who loves building smart, data-driven, and creative systems.  
-I focus on **end-to-end AI applications** — from research and model training to scalable deployment.
+Hi, I’m **Hrishikesh Garje** — a passionate **AI, ML, and Generative AI Developer** dedicated to building intelligent, scalable, and impactful digital systems.  
+My interests span **machine learning**, **natural language processing**, and **AI-powered applications** that make technology more human-centric.
+
+Beyond my work in AI, I’m also the **Founder and Technical Head of [Choco Dazzle](#)** — a luxury chocolate brand specializing in **in-house chocolate production**.  
+At Choco Dazzle, I lead **product digitization**, **website development**, and **automation systems**, merging creativity with technology to deliver both flavor and innovation.
 
 - 🌱 Exploring **LLMs**, **RAG**, and **AI Agents**
 - 🤖 Working with **OpenAI**, **LangChain**, **HuggingFace**, and **Google GenAI**
-- ⚡ Interested in **AI product design** & **automation with ML**
-- 💬 Open to **collaboration**, **internships**, and **research projects**
+- 🧠 Experienced in **AI architecture, ML pipelines**, and **product-ready integrations**
+- ⚡ Passionate about **building smart systems that scale**
+- 💬 Open to **collaborations**, **internships**, and **GenAI projects**
 
 ---
 
@@ -36,6 +40,10 @@ FastAPI • Streamlit • Docker • GitHub Actions • Git • Linux
 
 **🗄️ Databases & Vector Stores:**  
 PostgreSQL • ChromaDB • Pinecone  
+
+**🏢 Business & Product Experience:**  
+Founder & Technical Manager @ **Choco Dazzle**  
+– Overseeing digital strategy, brand tech infrastructure, and AI-driven business optimization.  
 
 ---
 
@@ -67,6 +75,7 @@ PostgreSQL • ChromaDB • Pinecone
 - 🎨 **Generative AI:** Text, Image, and Multimodal AI models  
 - 📈 **Machine Learning:** Predictive modeling, NLP, and data automation  
 - ☁️ **Deployment:** FastAPI, Docker, and cloud-based AI services  
+- 🍫 **Entrepreneurship:** Tech-driven product innovation at *Choco Dazzle*  
 
 ---
 
@@ -78,7 +87,7 @@ PostgreSQL • ChromaDB • Pinecone
 
 ---
 
-⭐ *“Innovation through intelligent code.”*
+⭐ *“Innovation through intelligent code — from AI systems to handcrafted chocolates.”*
 
 ---
 
