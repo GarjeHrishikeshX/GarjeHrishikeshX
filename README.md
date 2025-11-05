@@ -1,6 +1,5 @@
 <!-- 🌟 Clean Adaptive Header (Transparent, No Black Borders) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=160&section=header&text=Hi%20there!%20I'm%20Hrishikesh%20Garje%20👋&fontSize=32&fontColor=ffffff&animation=fadeIn&desc=AI%20%7C%20Machine%20Learning%20%7C%20Generative%20AI%20Developer&descAlignY=55&strokeWidth=0">
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:fafafa,100:ffffff&height=160&section=header&text=Hi%20there!%20I'm%20Hrishikesh%20Garje%20👋&fontSize=32&fontColor=2d2e32&animation=fadeIn&desc=AI%20%7C%20Machine%20Learning%20%7C%20Generative%20AI%20Developer&descAlignY=55&strokeWidth=0">
   <img alt="Hi there! I'm Hrishikesh Garje 👋" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Hi%20there!%20I'm%20Hrishikesh%20Garje%20👋&fontSize=32&animation=fadeIn&strokeWidth=0">
 </picture>
@@ -93,7 +92,9 @@ Founder & Technical Manager @ **Choco Dazzle**
 
 <!-- 🌊 Transparent Footer -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=100&section=footer&strokeWidth=0">
+  <!-- <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:fafafa,100:ffffff&height=160&section=header&text=Hi%20there!%20I'm%20Hrishikesh%20Garje%20👋&fontSize=32&fontColor=2d2e32&animation=fadeIn&desc=AI%20%7C%20Machine%20Learning%20%7C%20Generative%20AI%20Developer&descAlignY=55&strokeWidth=0">
+  
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=100&section=footer&strokeWidth=0"> -->
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:fafafa,100:ffffff&height=100&section=footer&strokeWidth=0">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&strokeWidth=0">
 </picture>
