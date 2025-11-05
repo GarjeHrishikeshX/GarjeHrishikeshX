@@ -86,7 +86,7 @@ Founder & Technical Manager @ **Choco Dazzle**
 
 ---
 
-⭐ *“Innovation through intelligent code — from AI systems to handcrafted chocolates.”*
+⭐ *“Innovation through intelligent code.”*
 
 ---
 
